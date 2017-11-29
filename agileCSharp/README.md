@@ -12,3 +12,4 @@
 22) [Template Method and Strategy](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap22.md)
 23) [Façade and Mediator](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap23.md)
 24) [Singleton and Monostate](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap24.md)
+25) [Null Object](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap25.md)
