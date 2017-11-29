@@ -12,3 +12,4 @@ Capítulos:
 ## Design Patterns
 21) [Command and Active Object](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap21.md)
 22) [Template Method and Strategy](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap22.md)
+22) [Façade and Mediator](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap23.md)
