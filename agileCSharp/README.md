@@ -13,3 +13,6 @@
 23) [Façade and Mediator](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap23.md)
 24) [Singleton and Monostate](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap24.md)
 25) [Null Object](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap25.md)
+29) [Factory](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap29.md)
+31) [Composite](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap31.md)
+32) [Observer](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap32.md)
