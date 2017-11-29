@@ -16,3 +16,4 @@
 29) [Factory](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap29.md)
 31) [Composite](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap31.md)
 32) [Observer](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap32.md)
+33) [Abstract Server, Adapter and Bridge](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap33.md)

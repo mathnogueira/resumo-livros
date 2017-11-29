@@ -1,0 +1,5 @@
+# Abstract Server
+
+# Adapter
+
+# Bridge
