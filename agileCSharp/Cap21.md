@@ -11,6 +11,8 @@
     - Pode ser agendado para ser executado;
 - Possibilidade de manter o contexto da ação isolada no objeto
     - Facilita a implementação de desfazer a ação
+- Possibilidade de encapsular diferentes requisições e executá-las por meio de uma interface comum.
+- Comandos são tratados como caixas pretas;
 
 # Active Object
 
