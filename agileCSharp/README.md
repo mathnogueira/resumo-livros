@@ -4,3 +4,4 @@ Capítulos:
 
 8) [Single Responsability Principle (SRP)](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap8.md)
 8) [Open-Closed Principle (OCP)](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap9.md)
+10) [Liskov Substitution Principle (LSP)](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap10.md)
