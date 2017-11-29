@@ -2,4 +2,4 @@
 
 Livros:
 
-1) [Princípios, padrões e práticas ágeis em C#, Uncle Bob]()
+1) [Princípios, padrões e práticas ágeis em C#, Uncle Bob](https://github.com/mathnogueira/resenha-livros/tree/master/agileCSharp)
