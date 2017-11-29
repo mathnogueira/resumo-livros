@@ -1,7 +1,5 @@
 # Princípios, Padrões e Práticas ágeis em C#, Uncle Bob
 
-Capítulos:
-
 ## SOLID
 8) [Single Responsability Principle (SRP)](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap8.md)
 8) [Open-Closed Principle (OCP)](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap9.md)
@@ -12,4 +10,5 @@ Capítulos:
 ## Design Patterns
 21) [Command and Active Object](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap21.md)
 22) [Template Method and Strategy](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap22.md)
-22) [Façade and Mediator](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap23.md)
+23) [Façade and Mediator](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap23.md)
+24) [Singleton and Monostate](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap24.md)
