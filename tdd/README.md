@@ -9,3 +9,6 @@
 5) [TDD e design de classes](https://github.com/mathnogueira/resenha-livros/tree/master/tdd/Cap5.md)
 5) [Qualidade no código do teste](https://github.com/mathnogueira/resenha-livros/tree/master/tdd/Cap6.md)
 7) [TDD e a coesão](https://github.com/mathnogueira/resenha-livros/tree/master/tdd/Cap7.md)
+8) [TDD e o acoplamento](https://github.com/mathnogueira/resenha-livros/tree/master/tdd/Cap8.md)
+9) [TDD e o encapsulamento](https://github.com/mathnogueira/resenha-livros/tree/master/tdd/Cap9.md)
+10) [Testes de integração e TDD](https://github.com/mathnogueira/resenha-livros/tree/master/tdd/Cap10.md)
