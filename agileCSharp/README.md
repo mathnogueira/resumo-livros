@@ -17,3 +17,5 @@
 31) [Composite](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap31.md)
 32) [Observer](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap32.md)
 33) [Abstract Server, Adapter and Bridge](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap33.md)
+34) [Proxy and Gateway](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap34.md)
+35) [Visitor](https://github.com/mathnogueira/resenha-livros/blob/master/agileCSharp/Cap35.md)
